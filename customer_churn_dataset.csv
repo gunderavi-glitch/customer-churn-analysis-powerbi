@@ -1,0 +1,31 @@
+Customer_ID,Gender,Age,Contract,Internet_Service,Payment_Method,Monthly_Charges,Tenure_Months,Churn
+C001,Male,25,Month-to-Month,Fiber Optic,Credit Card,79.5,5,Yes
+C002,Female,34,One Year,DSL,Bank Transfer,55.2,24,No
+C003,Male,42,Two Year,Fiber Optic,Credit Card,89.9,36,No
+C004,Female,29,Month-to-Month,DSL,UPI,49.99,8,Yes
+C005,Male,51,Two Year,No Internet,Cash,30.0,48,No
+C006,Female,23,Month-to-Month,Fiber Optic,UPI,85.5,3,Yes
+C007,Male,37,One Year,DSL,Credit Card,59.75,18,No
+C008,Female,45,Two Year,Fiber Optic,Bank Transfer,92.0,42,No
+C009,Male,31,Month-to-Month,Fiber Optic,UPI,88.4,6,Yes
+C010,Female,56,Two Year,DSL,Cash,52.0,60,No
+C011,Male,28,Month-to-Month,DSL,Credit Card,58.5,10,Yes
+C012,Female,39,One Year,Fiber Optic,UPI,81.25,20,No
+C013,Male,48,Two Year,No Internet,Bank Transfer,29.99,54,No
+C014,Female,26,Month-to-Month,Fiber Optic,UPI,90.1,4,Yes
+C015,Male,33,One Year,DSL,Credit Card,57.8,16,No
+C016,Female,41,Two Year,Fiber Optic,Bank Transfer,87.6,38,No
+C017,Male,22,Month-to-Month,DSL,UPI,51.4,2,Yes
+C018,Female,52,Two Year,No Internet,Cash,31.5,50,No
+C019,Male,36,One Year,Fiber Optic,Credit Card,76.9,22,No
+C020,Female,30,Month-to-Month,Fiber Optic,UPI,84.75,7,Yes
+C021,Male,44,Two Year,DSL,Bank Transfer,54.3,40,No
+C022,Female,27,Month-to-Month,DSL,Credit Card,50.25,5,Yes
+C023,Male,58,Two Year,No Internet,Cash,28.75,62,No
+C024,Female,35,One Year,Fiber Optic,UPI,78.6,19,No
+C025,Male,24,Month-to-Month,Fiber Optic,UPI,91.2,3,Yes
+C026,Female,47,Two Year,DSL,Bank Transfer,53.9,44,No
+C027,Male,40,One Year,Fiber Optic,Credit Card,80.3,21,No
+C028,Female,32,Month-to-Month,Fiber Optic,UPI,86.45,9,Yes
+C029,Male,55,Two Year,No Internet,Cash,32.2,57,No
+C030,Female,38,One Year,DSL,Credit Card,56.7,17,No
